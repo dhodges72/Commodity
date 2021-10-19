@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 18 13:29:18 2021
 
-@author: deand
-"""
 import pandas as pd
 import streamlit as st
 import yfinance as yf
